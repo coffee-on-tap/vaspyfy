@@ -1,0 +1,22 @@
+{
+    "ADDGRID": ".TRUE.",
+    "ALGO": "NORMAL",
+    "EDIFF": "1e-6",
+    "EDIFFG": "-0.01",
+    "ENCUT": "400",
+    "GGA": "PE",
+    "IBRIO": "2",
+    "ISIF": "2",
+    "ISMEAR": "1",
+    "ISPIN": "2",
+    "IVDW": "0",
+    "LREAL": ".FALSE.",
+    "LASPH": ".TRUE.",
+    "NELM": "400",
+    "NELMDL": "12",
+    "NSW": "400",
+    "PREC": "Accurate",
+    "SIGMA": "0.2",
+    "LORBIT": "11",
+    "LMAXMIX": "6"
+}
